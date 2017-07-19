@@ -1,2 +1,2 @@
 # improved-waffle
-Sample repo for the Getting Git workshop
+This is a demo repository I created during the [Getting Git online workshop](https://gettinggit.com/online-workshop).
